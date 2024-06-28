@@ -55,7 +55,8 @@ Copiar código
 3. Instalar las dependencias:
 
     ```sh
-    pip install -r requirements.txt
+    python.exe -m pip install --upgrade pip --trusted-host pypi.org --trusted-host files.pythonhosted.org
+    pip install -r requirements.txt --trusted-host pypi.org --trusted-host files.pythonhosted.org
     ```
 
 4. Ejecutar la aplicación:
