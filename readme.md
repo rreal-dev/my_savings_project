@@ -71,11 +71,17 @@ Esto abrirá una ventana donde podrás calcular los ahorros y guardar los result
 
 ### Ventana Principal
 
-![Ventana Principal](assets/main_window.png)
+<p align="center">
+  <img src="assets/main_window.png" alt="Ventana Principal">
+</p>
 
 ### Resultados
 
-![Resultados](assets/result_window.png)
+<p align="center">
+  <img src="assets/result_window.png" alt="Resultados">
+  <img src="assets/result_window_end.png" alt="Resultados Finales">
+</p>
+
 
 ## Estructura de Archivos
 
